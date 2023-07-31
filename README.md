@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sabymon
 - 👀 I’m interested in Scientific Computing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Agent Based Simulation
+- 💞️ I’m looking to collaborate on Causal ML,Probabilistic Graphical Models, Agent Based Models and System dynamics
 - 📫 How to reach me ...
 
 <!---
